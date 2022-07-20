@@ -10,6 +10,7 @@
   </types>
   <types>
     <name>ApexClass</name>
+    <members>ContactController</members>
     <members>ChangePasswordController</members>
     <members>ChangePasswordControllerTest</members>
     <members>CommunitiesLandingController</members>
